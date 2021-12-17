@@ -1,17 +1,13 @@
 TUGAS BESAR INTERAKSI MANUSIA DAN KOMPUTER
 SISTEM ABSENSI DAN PERHITUNGAN GAJI KARYAWAN KLINIK PANCA MEDIKA BERBASIS WEB
 
+Saya meminta maaf kak, dikarenakan ukuran filenya terlalu besar jadi kami mengunggahnya lagi ke drive kak
+
+Link : https://drive.google.com/file/d/1UMhTO6acU8yZkhrgerxxfBgPu2Xm7nni/view?usp=sharing
+
 KELOMPOK 6
 INDAH ZAHRANI LUBIS (201402047)
 LINDA TAMARA SIREGAR (201402053)
 LASMA RIA MANALU (201402080)
 MUTHIAH HUTASUHUT (201402029)
 NAYLI HAZIRAH (201402113)
-
-//Akun Pegawai
-No Pegawai	: 010194
-Password	: 010194
-
-//Akun Admin
-No Pegawai	: admin
-Password	: admin123
